@@ -16,4 +16,11 @@ London, UK / Prague, CZ.
 
 ---
 
-[![Ctx.eng — Awwwards Honorable Mention](./ctx-eng.gif)](https://contra.com/doug_silkstone/work) [![Growth Society](./growth-society.gif)](https://contra.com/doug_silkstone/work)
+<table>
+<tr>
+<td width="25%"><a href="https://contra.com/doug_silkstone/work"><img src="./ctx-eng.gif" width="100%"/></a></td>
+<td width="25%"><a href="https://contra.com/doug_silkstone/work"><img src="./growth-society.gif" width="100%"/></a></td>
+<td width="25%"><a href="https://contra.com/doug_silkstone/work"><img src="./helix.gif" width="100%"/></a></td>
+<td width="25%"><a href="https://contra.com/doug_silkstone/work"><img src="./contra-4.gif" width="100%"/></a></td>
+</tr>
+</table>
