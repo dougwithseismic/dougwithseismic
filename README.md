@@ -8,7 +8,7 @@ Lately a lot of agentic workflows, ~~MCP servers~~ CLI tools, and game internals
 
 London, UK / Prague, CZ.
 
-![GB](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/GB.svg) ![UA](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/UA.svg) ![EU First](https://img.shields.io/badge/EU-First-003399?style=flat-square&labelColor=FFCC00)
+![GB · EU · UA](./flags.svg)
 
 ---
 
