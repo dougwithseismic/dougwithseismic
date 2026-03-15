@@ -1,6 +1,6 @@
 ### WithSeismic
 
-![open to work](https://img.shields.io/badge/open_to_work-2ea44f?style=flat-square) ![€80–100/hr](https://img.shields.io/badge/€80–100%2Fhr-contract-333?style=flat-square) ![10+ years](https://img.shields.io/badge/10%2B_years-experience-333?style=flat-square) ![3 exits](https://img.shields.io/badge/3_exits-founded_%26_sold-333?style=flat-square) [![withseismic.com](https://img.shields.io/badge/withseismic.com-000?style=flat-square)](https://withseismic.com)
+![€80–100/hr](https://img.shields.io/badge/€80–100%2Fhr-contract-2ea44f?style=flat-square) ![10+ years](https://img.shields.io/badge/10%2B_years-experience-333?style=flat-square) ![3 exits](https://img.shields.io/badge/3_exits-founded_%26_sold-333?style=flat-square) [![withseismic.com](https://img.shields.io/badge/withseismic.com-000?style=flat-square)](https://withseismic.com)
 
 Full-stack engineer with 10 years building and shipping production products. Most of my hands-on work is TypeScript and React, with more recent work in Python, C++, and LLM tooling. I've founded and sold three products and spent the last decade running WithSeismic, delivering product and engineering work for companies including Contra, Framer, The Motley Fool, and MIT.
 
