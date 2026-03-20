@@ -2,9 +2,22 @@
 
 ![€80–100/hr](https://img.shields.io/badge/€80–100%2Fhr-contract-2ea44f?style=flat-square) ![10+ years](https://img.shields.io/badge/10%2B_years-experience-333?style=flat-square) ![3 exits](https://img.shields.io/badge/3_exits-founded_%26_sold-333?style=flat-square) [![withseismic.com](https://img.shields.io/badge/withseismic.com-000?style=flat-square)](https://withseismic.com)
 
-Engineer, designer, and founder with 10 years across full-stack development, UX, growth, and user acquisition. Most of my hands-on work is TypeScript and React, with more recent work in Python, C++, and LLM tooling. I've founded and sold three products and spent the last decade running WithSeismic, delivering product, design, and engineering work for companies including Contra, Framer, The Motley Fool, and MIT.
+Engineer, designer, and founder with 15 years across full-stack development, UX, growth, and user acquisition. Most of my hands-on work is TypeScript and React, with more recent work in Python, C++, and LLM tooling. I've founded and sold three products and spent the last decade running WithSeismic, delivering product, design, and engineering work for companies including Contra, Framer, The Motley Fool, and MIT.
 
-Lately a lot of agentic workflows, ~~MCP servers~~ CLI tools, and game internals.
+I built my first business back in 2015 - scaling and exiting in 2022, following up with two more exits in the last three years. Since then, I've helped clients to raise a collective US$20 million in early-stage funding by building full-stack systems in place to show a success story of growth ready for capital injection (with a NASDAQ-listed acquisition to boot).
+
+- User acquisition
+- Martech Analytics
+- Growth / GTM
+- Full-stack Development
+- Business Mentoring
+
+Mentions:
+- Most Effective Cross-Channel Campaign - NOWTV (bskyb) x Performance Marketing Awards
+- Most Creative Performance Marketing Campaign - TOPMAN x Performance Marketing Awards
+- 1 x Awwwards Honorable Mention
+
+Lately, I'm immersed in agentic workflows, ~~MCP servers~~ CLI tools, and game internals with React, Rust, Python, and C++.
 
 London, UK / Prague, CZ.
 
