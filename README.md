@@ -6,18 +6,18 @@ Engineer, designer, and founder with 15 years across full-stack development, UX,
 
 I built my first business back in 2015 - scaling and exiting in 2022, following up with two more exits in the last three years. Since then, I've helped clients to raise a collective US$20 million in early-stage funding by building full-stack systems in place to show a success story of growth ready for capital injection (with a NASDAQ-listed acquisition to boot).
 
-- User acquisition
-- Martech Analytics
-- Growth / GTM
 - Full-stack Development
+- Design Engineering
+- User acquisition
+- Martech / Analytics / Growth
 - Business Mentoring
 
 Mentions:
 - Most Effective Cross-Channel Campaign - NOWTV (bskyb) x Performance Marketing Awards
 - Most Creative Performance Marketing Campaign - TOPMAN x Performance Marketing Awards
-- 1 x Awwwards Honorable Mention
+- 1 x Awwwards Honourable Mention
 
-Lately, I'm immersed in agentic workflows, ~~MCP servers~~ CLI tools, and game internals with React, Rust, Python, and C++.
+Lately, I'm immersed in agentic workflows, CLI tools, and R&D with Typescript, Rust, Python, and C++.
 
 London, UK / Prague, CZ.
 
