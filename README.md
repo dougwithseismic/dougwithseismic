@@ -17,7 +17,7 @@ Mentions:
 - Most Creative Performance Marketing Campaign - TOPMAN x Performance Marketing Awards
 - 1 x Awwwards Honourable Mention
 
-Lately, I'm immersed in agentic workflows, CLI tools, and R&D with Typescript, Rust, Python, and C++.
+Lately, I'm immersed in agentic workflows, CLI tools, and R&D with Typescript, Rust, Python, and C++. Shout out to [Hogsend](https://hogsend.com?ref=dougwithseismic); a pet project I use to print money for clients.
 
 London, UK / Prague, CZ.
 
