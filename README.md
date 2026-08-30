@@ -36,4 +36,10 @@ London, UK / Prague, CZ.
 <td width="25%"><a href="https://contra.com/doug_silkstone/work"><img src="./helix.gif" width="100%"/></a></td>
 <td width="25%"><a href="https://contra.com/doug_silkstone/work"><img src="./contra-4.gif" width="100%"/></a></td>
 </tr>
+<tr>
+<td width="25%"><a href="https://contra.com/community/fSsijrHs-signal-space-prague-cz-we"><img src="./signal-space.gif" width="100%"/></a></td>
+<td width="25%"><a href="https://contra.com/community/W3g34xOJ-sneaker-aggregator-client-project-mvp-one"><img src="./sneaker-aggregator.gif" width="100%"/></a></td>
+<td width="25%"><a href="https://contra.com/p/W2NoPkoe-agency-concept-site-revamp?r=doug_silkstone"><img src="./agency-concept.gif" width="100%"/></a></td>
+<td width="25%"><a href="https://contra.com/community/E2jHb8zs-designed-and-built-a-working-platform"><img src="./darkshire.gif" width="100%"/></a></td>
+</tr>
 </table>
